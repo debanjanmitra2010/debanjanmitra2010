@@ -27,7 +27,7 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-080135?style=flat-square&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-080135?style=flat-square&logo=azure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-080135?style=flat-square&logo=microsoft&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-080135?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
