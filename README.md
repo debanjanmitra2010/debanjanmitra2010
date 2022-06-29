@@ -31,7 +31,3 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-080135?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-## GitHub Stats
-<a href="https://github.com/debanjanmitra2010">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjanmitra2010&theme=default&layout=compact&hide=java&hide_border=true" />
-</a>
