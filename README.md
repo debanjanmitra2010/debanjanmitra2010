@@ -14,7 +14,7 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
 ## Technologies & Tools
 
 <p>
-  <img alt="javascript" src="https://img.shields.io/badge/-javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
