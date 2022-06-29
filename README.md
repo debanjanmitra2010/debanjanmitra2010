@@ -14,7 +14,7 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
 ## Technologies & Tools
 
 <p>
-  <img alt="javascript" src="https://img.shields.io/badge/-javascript-080135?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -27,7 +27,7 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-080135?style=flat-square&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-080135?style=flat-square&logo=amazon&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-080135?style=flat-square&logo=azure&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-080135?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
