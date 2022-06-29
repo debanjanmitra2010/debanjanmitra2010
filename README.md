@@ -4,12 +4,7 @@
 
 ## About Me 
 
-Hi, I’m Debanjan, a skilled and passionate programmer who is looking to work at an organization which would provide me the opportunity to improve my skills and knowledge, and to grow along with the organization’s objective and goals. I’m always passionate about learning and innovating new technologies that can be used for the betterment of human lives and society as a whole.
-
-I have an overall experience of 1.5+ years in software development. I’m proficient in developing Web and Java Applications using cutting edge technologies that are user-friendly, easy to use, responsive, robust, and High Performing. I have worked in different stages of SDLC and took responsibility to deliver objects on time. 
-
-Technical Skills:
-Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest APIs, Node.js, Jenkins, Git, Data Structure & Algorithm.
+Debanjan Mitra is a Consultant in the Consulting practice of Ernst & Young LLP. He has completed his Master’s in Computer Engineering from University of Guelph. He has a solid understanding of computer software design, data structure and algorithm, relational database, and product development which has given him the foundation to succeed in IT industry. He has 1+ year of IT Experience where he was involved in projects which were related to banking and retail. He has established a strong grasp of a wide range of programming languages and tools to complement his diverse skillset. His capacity to deliver innovative thinking and problem solutions has improved as a result of his skills in building use cases and project planning, which has helped both his clients and current employer.
 
 ## Technologies & Tools
 
@@ -17,11 +12,13 @@ Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, HTML, CSS, Bootstrap, Rest
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-177245?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-080135?style=flat-square&logo=github&logoColor=white" />
