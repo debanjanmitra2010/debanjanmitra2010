@@ -4,7 +4,13 @@
 
 ## About Me 
 
-Debanjan Mitra is a Consultant in the Consulting practice of Ernst & Young LLP. He has completed his Master’s in Computer Engineering from University of Guelph. He has a solid understanding of computer software design, data structure and algorithm, relational database, and product development which has given him the foundation to succeed in IT industry. He has 1+ year of IT Experience where he was involved in projects which were related to banking and retail. He has established a strong grasp of a wide range of programming languages and tools to complement his diverse skillset. His capacity to deliver innovative thinking and problem solutions has improved as a result of his skills in building use cases and project planning, which has helped both his clients and current employer.
+As a seasoned Cloud Engineering Consultant at EY, I specialize in architecting and implementing highly secure, scalable, and cost-effective cloud solutions on Microsoft Azure. With a focus on security, identity management, automation, and CI/CD, I consistently deliver large-scale projects exceeding CAD $1 million while managing teams of 10+ specialists.
+
+My expertise in cloud architecture enables me to design solutions that drive operational efficiency and cost reduction, ensuring a seamless transition to Azure. I prioritize security from the ground up, safeguarding data integrity and ensuring compliance with industry regulations. Through Azure Active Directory management, I deliver streamlined user experiences with hybrid identities and single sign-on capabilities.
+
+I possess a deep understanding of DevOps concepts and tools including PowerShell, Azure CLI, Jenkins, and Terraform, enabling me to create highly automated infrastructure and deployment processes. Proficient in containerization technologies (Docker, Kubernetes), I optimize application deployment and management. By proactively integrating security into CI/CD pipelines with SAST and DAST tools, I mitigate vulnerabilities early in the development lifecycle.
+
+Let's connect and discuss how I can leverage my expertise to deliver secure, efficient, and innovative cloud solutions tailored to your needs.
 
 ## Technologies & Tools
 
